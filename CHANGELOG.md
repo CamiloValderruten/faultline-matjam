@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/matjam/faultline/compare/v1.5.0...v1.6.0) (2026-05-01)
+
+
+### Features
+
+* **admin:** scaffold HTTP admin UI with login + session auth ([2bcba17](https://github.com/matjam/faultline/commit/2bcba17b966eac0ec13cc5bcba1c67fadf8e533f))
+
+
+### Bug Fixes
+
+* **update:** back off polling on GitHub rate-limit responses ([2f570e1](https://github.com/matjam/faultline/commit/2f570e1ee7eb41a231edb408c770924860311a7d))
+
 ## [1.5.0](https://github.com/matjam/faultline/compare/v1.4.0...v1.5.0) (2026-05-01)
 
 
